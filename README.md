@@ -13,7 +13,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<div align="center" style="margin-right: 5px">
+<div align="center" style="margin-left: 5px">
 <a href = "mailto:pedro-luisjunior@hotmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoCo">
 <a href="https://www.linkedin.com/in/pedro-luiz-934b44234" target="_blank">
