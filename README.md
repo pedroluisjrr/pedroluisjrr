@@ -4,8 +4,8 @@
 
 <div align="center">
 <a href="https://github.com/pedroluisjrr">
-<img height="180em" width="80em" src="https://github-readme-stats.vercel.app/api?username=pedroluisjrr&show_icons=true&theme=dracula&include_all_commits">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluisjrr&layout=compact&langs_count=7&theme=onedark">
+<img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api?username=pedroluisjrr&show_icons=true&theme=dracula&include_all_commits">
+<img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluisjrr&layout=compact&langs_count=7&theme=onedark">
 </div>
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
